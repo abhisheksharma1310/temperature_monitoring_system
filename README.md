@@ -1,5 +1,5 @@
 # Temperature_monitoring_system
-**It detect temperature and if temperature value is  greater than specified value then it will turn on Fan and Led.** 
+**It detects temperature, and if the temperature value is greater than the specified value, then it will turn on Fan and Led.** 
 
 **Arduino Code**
 
